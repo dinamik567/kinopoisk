@@ -1,6 +1,6 @@
 # Запуск проекта
-1 нужно получить TOKEN по адрессу https://www.themoviedb.org/settings/api
-2 в папке api.js поменять токен (2 строка)
+1. нужно получить TOKEN по адрессу https://www.themoviedb.org/settings/api
+2. в папке api.js поменять токен (2 строка)
 
 ## Getting Started with Create React App
 

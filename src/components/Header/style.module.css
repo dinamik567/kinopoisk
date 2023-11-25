@@ -1,0 +1,18 @@
+
+.header {
+    padding: 16px 24px;
+    background-color: rgba(33, 150, 243, 1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.name {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%; /* 32px */
+    letter-spacing: 0.15px;
+}

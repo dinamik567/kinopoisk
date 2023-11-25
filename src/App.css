@@ -1,0 +1,9 @@
+.App {
+    height: 100vh;
+}
+
+.wrapper {
+    padding: 24px;
+    display: flex;
+    justify-content: space-between;
+}

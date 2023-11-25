@@ -1,0 +1,13 @@
+.categories {
+    margin-bottom: 16px;
+}
+
+.label {
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px; /* 100% */
+    letter-spacing: 0.15px;
+    margin: 16px 0;
+}

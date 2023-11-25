@@ -1,0 +1,22 @@
+.filters {
+    margin-bottom: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%; /* 32px */
+    letter-spacing: 0.15px;
+}
+
+.categories {
+    margin-bottom: 16px;
+}
